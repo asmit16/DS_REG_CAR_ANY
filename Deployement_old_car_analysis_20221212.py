@@ -33,7 +33,8 @@ from PIL import Image
 
 
 # Load Dataset *************************************************************
-url = 'https://github.com/uma0shubh/cars24_data/blob/main/cars24_20221210.csv?raw=true'
+#url = 'https://github.com/uma0shubh/cars24_data/blob/main/cars24_20221210.csv?raw=true'
+url ="https://github.com/asmit16/DS_REG_CAR_DATA/blob/main/cars24_20221210.csv?raw=true'
 df = pd.read_csv(url)
 
 
